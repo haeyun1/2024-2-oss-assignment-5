@@ -1,9 +1,8 @@
-// 파일 경로: src/App.js
 import React, { useState } from "react";
-import ShowList from "./components/ShowList";
-import AddStudentModal from "./components/AddStudentModal";
-import UpdateStudentModal from "./components/UpdateStudentModal";
-import DeleteStudentModal from "./components/DeleteStudentModal";
+import ShowList from "./ShowList";
+import AddStudentModal from "./AddStudentModal";
+import UpdateStudentModal from "./UpdateStudentModal";
+import DeleteStudentModal from "./DeleteStudentModal";
 import { Button } from "react-bootstrap";
 
 function App() {
