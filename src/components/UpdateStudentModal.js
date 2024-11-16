@@ -1,4 +1,3 @@
-// 파일 경로: src/components/UpdateStudentModal.js
 import React, { useState } from "react";
 import { Modal, Button } from "react-bootstrap";
 
